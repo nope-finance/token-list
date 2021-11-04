@@ -20967,8 +20967,8 @@
     ],
     "extensions": {
       "twitter": "https://twitter.com/solendprotocol",
-        "website": "https://solend.fi"
-
+      "coingeckoId":"solend",
+      "website": "https://solend.fi"
     }
 },
 {
